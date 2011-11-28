@@ -1,0 +1,3 @@
+[submodule "puppet/modules/erlang"]
+	path = puppet/modules/erlang
+	url = git@github.com:rpt/puppet-erlang.git
